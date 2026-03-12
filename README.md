@@ -6,7 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gzaa19&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gazaalghozali/)
 &nbsp;
