@@ -82,7 +82,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=120&section=footer&fontColor=7aa2f7" width="100%"/>
