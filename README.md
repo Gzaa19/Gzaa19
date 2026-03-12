@@ -26,8 +26,6 @@ role: Software Engineer Enthusiast
 
 currently_learning: ["Dart", "Flutter"]
 interests: ["Full-Stack Development", "Mobile Apps", "AI/ML", "Problem Solving"]
-
-fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ```
 
 - Currently working on **Flutter & Dart** mobile applications
