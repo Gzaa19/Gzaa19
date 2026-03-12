@@ -82,79 +82,8 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
-
 ---
-
-## �GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gzaa19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&ring_color=7aa2f7" alt="Gaza's GitHub Stats"/>
- &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzaa19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gzaa19&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gzaa19&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&area_color=7aa2f7" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gzaa19&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
----
-
-## ⭐Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Gzaa19/heatwise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gzaa19&repo=heatwise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Gzaa19/ExCellera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gzaa19&repo=ExCellera&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Gzaa19/Islamy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gzaa19&repo=Islamy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Gzaa19/LokalOKE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gzaa19&repo=LokalOKE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Gzaa19/ChatAPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gzaa19&repo=ChatAPP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Gzaa19/portofoliov2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gzaa19&repo=portofoliov2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-</a>
-
-</div>
-
-
-<div align="center">
-
-#### *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=120&section=footer&fontColor=7aa2f7" width="100%"/>
 
