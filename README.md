@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=220&section=header&text=Gaza%20Al%20Ghozali%20Chansa&fontSize=42&fontColor=c0caf5&fontAlignY=35&desc=Software%20Engineer%20Enthusiast%20%F0%9F%9A%80&descSize=18&descAlignY=55&descColor=7aa2f7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=220&section=header&text=Gaza%20Al%20Ghozali%20Chansa&fontSize=42&fontColor=c0caf5&fontAlignY=35&desc=Software%20Engineer%20Enthusiast&descSize=18&descAlignY=55&descColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+things+that+matter+%F0%9F%92%A1;Full-Stack+Developer+%7C+Mobile+Dev+%7C+AI+Enthusiast;Turning+ideas+into+code%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+things+that+matter;Full-Stack+Developer+%7C+Mobile+Dev+%7C+AI+Enthusiast;Turning+ideas+into+code%2C+one+commit+at+a+time" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -65,6 +65,10 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 #### Backend & Database
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0958F2?style=for-the-badge&logo=django&logoColor=white)
+!my
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
