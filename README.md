@@ -22,7 +22,7 @@
 name: Gaza Al Ghozali Chansa
 location: Indonesia 🇮🇩
 education: Computer Science / Informatics
-role: Software Engineer Enthusiast
+role: Software Engineer
 
 currently_learning: ["Dart", "Flutter"]
 interests: ["Full-Stack Development", "Mobile Apps", "AI/ML", "Problem Solving"]
