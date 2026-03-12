@@ -31,7 +31,6 @@ interests: ["Full-Stack Development", "Mobile Apps", "AI/ML", "Problem Solving"]
 - Exploring **AI-powered solutions** and **Machine Learning**
 - Passionate about building **impactful digital products**
 - Open for collaboration on **open-source projects**
-- Competitive programming enthusiast
 
 ---
 
